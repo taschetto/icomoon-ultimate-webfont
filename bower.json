@@ -6,7 +6,7 @@
     "Guilherme Taschetto <gtaschetto@gmail.com>"
   ],
   "description": "The Icomoon Ultimate webfont, packaged for Bower",
-  "main": "font.css",
+  "main": "icomoon-ultimate-webfont.css",
   "keywords": [
     "icomoon ultimate",
     "web font"
